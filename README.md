@@ -1,1 +1,1 @@
-# c1
+the source will output a simple string
